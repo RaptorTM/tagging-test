@@ -1,4 +1,9 @@
 
+## Added release notes for v0.0.5
+### Date: 11-02-2024
+### 
+***
+
 ## Added release notes for v0.0.4
 ### Date: 11-02-2024
 ### Added release notes for v0.0.4
