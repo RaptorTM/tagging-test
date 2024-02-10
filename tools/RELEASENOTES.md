@@ -1,6 +1,25 @@
 
 ## Added release notes for v0.0.5
 ### Date: 11-02-2024
+### Added release notes for v0.0.5
+
+Merge pull request #7 from RaptorTM/wsl_test_sh
+
+Wsl test sh
+v0.0.6
+add tag.sh
+
+Added release notes for v0.0.5
+
+Added release notes for v0.0.5
+
+Added release notes for v0.0.5
+
+Added release notes for v0.0.5
+***
+
+## Added release notes for v0.0.5
+### Date: 11-02-2024
 ### Merge pull request #7 from RaptorTM/wsl_test_sh
 
 Wsl test sh
